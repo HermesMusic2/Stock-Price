@@ -1,0 +1,15 @@
+C:\E\PreciosInvMKPL\PreciosInvMKPL\bin\Debug\PreciosInvMKPL.exe.config
+C:\E\PreciosInvMKPL\PreciosInvMKPL\bin\Debug\PreciosInvMKPL.exe
+C:\E\PreciosInvMKPL\PreciosInvMKPL\bin\Debug\PreciosInvMKPL.pdb
+C:\E\PreciosInvMKPL\PreciosInvMKPL\obj\Debug\PreciosInvMKPL.csprojAssemblyReference.cache
+C:\E\PreciosInvMKPL\PreciosInvMKPL\obj\Debug\PreciosInvMKPL.Form1.resources
+C:\E\PreciosInvMKPL\PreciosInvMKPL\obj\Debug\PreciosInvMKPL.frmInventarios.resources
+C:\E\PreciosInvMKPL\PreciosInvMKPL\obj\Debug\PreciosInvMKPL.FrmPrecios.resources
+C:\E\PreciosInvMKPL\PreciosInvMKPL\obj\Debug\PreciosInvMKPL.frmValidacion.resources
+C:\E\PreciosInvMKPL\PreciosInvMKPL\obj\Debug\PreciosInvMKPL.Properties.Resources.resources
+C:\E\PreciosInvMKPL\PreciosInvMKPL\obj\Debug\PreciosInvMKPL.csproj.GenerateResource.cache
+C:\E\PreciosInvMKPL\PreciosInvMKPL\obj\Debug\PreciosInvMKPL.csproj.CoreCompileInputs.cache
+C:\E\PreciosInvMKPL\PreciosInvMKPL\obj\Debug\PreciosInvMKPL.exe
+C:\E\PreciosInvMKPL\PreciosInvMKPL\obj\Debug\PreciosInvMKPL.pdb
+C:\E\PreciosInvMKPL\PreciosInvMKPL\obj\Debug\PreciosInvMKPL.csproj.ResolveComReference.cache
+C:\E\PreciosInvMKPL\PreciosInvMKPL\obj\Debug\PreciosInvMKPL.frmProceso.resources
